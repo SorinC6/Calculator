@@ -1,6 +1,6 @@
 # Calculator
 
-This project is written in Ecplipse. 
+This project is written in Eclipse. 
 
 A simple calculator whith easy code.
 Has a Swing built interface

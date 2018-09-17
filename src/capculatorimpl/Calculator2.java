@@ -106,8 +106,8 @@ public class Calculator2 extends JFrame implements ActionListener {
     //    buttonNine.setText("9");
     //    panel2.add(buttonNine);
 
-    String numarNoua = "9";
-    butonNine = new ButonNine(textFieldDisplay, numarNoua);
+    //String numarNoua = "9";
+    butonNine = new ButonNine(textFieldDisplay, "9");
     butonNine.setText("9");
     panel2.add(butonNine);
     butonNine.addActionListener(this);
